@@ -25,9 +25,12 @@
 
 ## 📫 Como me encontrar
 <div> 
-  <a href="mailto:diegodasilvasantos2003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/diegodasilvasantos33/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=diegodasilvasantos2003@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/diegodasilvasantos33/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
   
 </div>
 
