@@ -1,4 +1,4 @@
-# Olá, eu sou o Diego Silva
+# Olá, eu sou o Diego Silva Santos
 💻| Front-End Developer  
 🎨| Amante de animações, microinterações e interfaces limpas  
 🚀| Criando projetos que contam histórias através do código
